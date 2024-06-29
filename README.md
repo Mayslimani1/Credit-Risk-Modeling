@@ -1,1 +1,4 @@
-# Credit-Risk-Modeling
+# Basel Probability of Default Modeling
+
+This project involves developing a scoring model to predict the probability of a client's bankruptcy, aimed at modeling customer risk. Key activities include extensive data processing such as stepwise regression, data discretization, and ensuring stability over time and value. A logistic regression model is used to create a scoring grid that highlights the score and contribution of various variables and their modalities. Homogeneous risk classes are established, and Margins of Conservatism (MOC C, MOC A) are calculated. The project further includes the calculation of Probability of Default (PD) for each class and an assessment of the risks associated with the company's assets (RWA). This comprehensive approach ensures accurate and reliable risk modeling in compliance with Basel regulations.
+
